@@ -123,3 +123,25 @@ food-text h2{
     letter-spacing: 2px;
 
 }
+
+/* big image */
+
+.bit-image{
+    width: 80%;
+    margin: auto;
+}
+
+.bit-image img{
+    width: 100%;
+}
+
+/* Footer */
+
+footer{
+    background-color: rgb(36, 214, 199);
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+    font-weight: 300;
+    font-size:34px;
+}
